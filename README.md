@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a **Control and Automation Engineering** student
+
 <!--
 **t-o-n-e-r-y/t-o-n-e-r-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
