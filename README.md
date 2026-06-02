@@ -8,7 +8,7 @@ I am a **Control and Automation Engineering** student with a strong passion for 
 - **Programming:** C/C++, Python for embedded systems, Matlab.
 
 ### 📫 Connect with me
-- **Email:** [your.email@example.com](mailto:nghiaz.ch@gmail.com)
+- **Email:** [nghiaz.ch@gmail.com](mailto:nghiaz.ch@gmail.com)
 
 
 <!--
